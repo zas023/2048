@@ -1,0 +1,30 @@
+<dict>  
+    <key>btn3</key>  
+    <string>上学版</string>  
+	<key>num0</key>  
+    <string>幼儿</string>  
+	<key>num2</key>  
+    <string>小学</string>  
+	<key>num4</key>  
+    <string>初中</string>  
+	<key>num8</key>  
+    <string>高一</string>  
+	<key>num16</key>  
+    <string>高二</string>  
+	<key>num32</key>  
+    <string>高三</string>  
+	<key>num64</key>  
+    <string>大一</string>  
+	<key>num128</key>  
+    <string>大二</string>  
+	<key>num256</key>  
+    <string>大三</string>  
+	<key>num512</key>  
+    <string>大四</string>  
+	<key>num1024</key>  
+    <string>硕士</string>  
+	<key>num2048</key>  
+    <string>博士</string>  
+	<key>num4096</key>  
+    <string>卒</string>  
+</dict>
